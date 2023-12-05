@@ -3,13 +3,13 @@
 ## Analysis Highlights
 
 1. Best Value Players
-Utilized a combination of points and assists to identify players who provided the most value to their teams.
-Calculated a value score for each player and ranked them accordingly.
-Visualized the top value players through informative plots.
+- Utilized a combination of points and assists to identify players who provided the most value to their teams.
+- Calculated a value score for each player and ranked them accordingly.
+- Visualized the top value players through informative plots.
 
 2. Team Performance
-Analyzed team statistics to identify the best-performing teams based on various metrics.
-Created visualizations to showcase team performance throughout the season.
+- Analyzed team statistics to identify the best-performing teams based on various metrics.
+- Created visualizations to showcase team performance throughout the season.
 
 3. Best and Worst Players
 - Explored individual player performance, identifying the top-performing and underperforming players.
